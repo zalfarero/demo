@@ -2,7 +2,9 @@
   "posts": [
     { "id": 1, "title": "Post 1", "sample": "whoaw" },
     { "id": 2, "title": "Post 2", "sample": "whoaw" },
-    { "id": 3, "title": "Post 3", "sample": "whoaw" }
+    { "id": 3, "title": "Post 3", "sample": "whoaw" },
+    { "id": 4, "title": "Post 4", "sample": "whoaw" },
+    { "id": 5, "title": "Post 5", "sample": "whoaw" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
